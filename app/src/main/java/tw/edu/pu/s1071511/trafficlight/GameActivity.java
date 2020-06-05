@@ -9,6 +9,7 @@ import android.os.Handler;
 import android.view.MotionEvent;
 import android.view.View;
 
+
 public class GameActivity extends AppCompatActivity {
 
     GameSurfaceView GameSV;
